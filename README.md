@@ -14,7 +14,7 @@ A classic Snake game implemented in Python using the Pygame library.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/snake_game.git
+   git clone https://github.com/peymananna/snake_game.git
 
 
    2.	Navigate to the project directory:
